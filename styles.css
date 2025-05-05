@@ -1,7 +1,13 @@
 .cs{
   text-align: center;
   vertical-align: center;
-  background-image: linear-gradient(to right, #000000 0%, #C0C0C0 51%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  background: linear-gradient(to right, #009FFF, #ec2F4B);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.div{
+  height: 100%;
+  width: 100%;
 }
