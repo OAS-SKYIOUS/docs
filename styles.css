@@ -1,10 +1,12 @@
 .cs{
   text-align: center;
   vertical-align: center;
+  font-size: 50px;	
   -webkit-animation: tracking-in-contract-bck 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) 0.25s both;
 	        animation: tracking-in-contract-bck 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) 0.25s both;
   -webkit-animation: color-change-2x 2s linear infinite alternate both;
           animation: color-change-2x 2s linear infinite alternate both;
+	
 }
 
 .div{
