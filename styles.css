@@ -1,1 +1,7 @@
-
+.cs{
+  text-align: center;
+  vertical-align: center;
+  background-image: linear-gradient(to right, #000000 0%, #C0C0C0 51%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
